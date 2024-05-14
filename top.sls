@@ -1,5 +1,5 @@
-"{{saltenv}}":
-  '*':
+#"{{saltenv}}":
+#  '*':
 #base:
 #  '*':
 #    - users
