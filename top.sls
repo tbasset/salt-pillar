@@ -1,6 +1,6 @@
 #"{{saltenv}}":
 #  '*':
-#base:
-#  '*':
-#    - users
-#    - pkgs
+base:
+  '*':
+    - users
+    - pkgs
