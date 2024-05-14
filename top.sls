@@ -1,5 +1,6 @@
+"{{saltenv}}":
+  '*':
 #base:
 #  '*':
-#    - securepolicy.base
 #    - users
 #    - pkgs
