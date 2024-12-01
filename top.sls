@@ -1,5 +1,3 @@
-#"{{saltenv}}":
-#  '*':
 base:
   '*':
     - users
